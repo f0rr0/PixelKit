@@ -44,7 +44,6 @@ Pod::Spec.new do |spec|
                            "Source/PIX/PIXs/Content/Resource/VectorPIX.swift",
                            "Source/PIX/IO/Peer.swift",
                            "Source/Other/Motion.swift",
-                           "Source/PIX/PIXs/Content/Resource/ViewPIX.swift",
                            "Source/PIX/PIXs/Content/Resource/DepthCameraPIX.swift",
                            "Source/PIX/PIXs/Content/Resource/MultiCameraPIX.swift",
                            "Source/PIX/PIXs/Content/Resource/PaintPIX.swift"
